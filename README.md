@@ -27,9 +27,12 @@ svhn
 
 
 File Output:
-The extracted curvature and shape features will be saved as .npy files:
+The extracted curvature,shape, color, and texture features will be saved as .npy files:
 <dataset_name>_curvatures.npy
 <dataset_name>_shapes.npy
+<dataset_name>_color_features.npy
+<dataset_name>_textures.npy
+
 
 
 Gaussian Noise and L2 Distance:
